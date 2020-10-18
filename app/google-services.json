@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239101656659",
+    "firebase_url": "https://epuka-fd08a.firebaseio.com",
+    "project_id": "epuka-fd08a",
+    "storage_bucket": "epuka-fd08a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239101656659:android:fd4ffc8e39f8eb1d7e90a6",
+        "android_client_info": {
+          "package_name": "com.kipruto.epuka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239101656659-aqa2elh7iju2kmckqfgeleibnsm1s456.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kipruto.epuka",
+            "certificate_hash": "a36244aa56b8a1db0ee01da21e70203bfb625a41"
+          }
+        },
+        {
+          "client_id": "239101656659-vcd22duaguau1r290gsh8ot9k97ro3er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmdhbz7GIk1BKvTcBOtdZptgvF6ZbGiI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239101656659-vcd22duaguau1r290gsh8ot9k97ro3er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

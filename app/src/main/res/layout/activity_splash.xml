@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#3eaeae"
+    android:gravity="center"
+    >
+
+    <TextView
+        android:id="@+id/splashheadertxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Epuka"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="italic"
+        android:gravity="center_horizontal"
+        android:fontFamily="serif-monospace"
+        android:textSize="50sp"/>
+
+    <ImageView
+        android:id="@+id/splashImageView"
+        android:layout_width="135dp"
+        android:layout_marginTop="35dp"
+        android:layout_height="135dp"
+        android:src="@mipmap/layers"
+        android:contentDescription="applogo"
+       />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/splashTetView"
+        android:layout_height="wrap_content"
+        android:text="Be Your Own Voice"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:typeface="monospace"
+        android:textStyle="italic"
+        android:layout_marginTop="55dp"
+        android:textSize="18sp"
+        android:padding="10dp"/>
+
+</LinearLayout>

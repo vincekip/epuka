@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#118071"
+    android:id="@+id/linearLayout1"
+    android:padding="10px">
+
+    <TextView
+        android:id="@+id/popuptxtprivately"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Text Privately"
+        android:padding="12dp"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="#fff"/>
+    <TextView
+        android:id="@+id/popupviewprofile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Profile"
+        android:padding="12dp"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="#fff"/>
+    <TextView
+        android:id="@+id/popupcancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:padding="12dp"
+        android:textColor="#fff"/>
+
+
+
+</LinearLayout>
